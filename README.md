@@ -73,3 +73,5 @@ In any event, the current list of included items is:
 	- Records indexed per second
 * ES Service (1 Item)
 	- Elasticsearch service status
+	
+	**but when we need it on our computer ,wo need to change elasticsearch IP**
